@@ -3,6 +3,8 @@
 
 This project analyzes the relationship between trader behavior and market sentiment (Fear vs Greed) using historical cryptocurrency trading data and Bitcoin market sentiment data.
 The goal is to identify how profitability, trade volume, and trading direction change under different market sentiments and to uncover insights that can support smarter trading strategies.
+🔗 Google Colab Link: https://colab.research.google.com/drive/1EcR5P-E3df9fsZojfV9rcwsz4tSLTf4h?usp=sharing
+
 
 📂 Project Structure
 
