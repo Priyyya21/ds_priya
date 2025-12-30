@@ -79,12 +79,6 @@ Visualizations saved in outputs/
 
 Final insights documented in ds_report.pdf
 
-🔗 Google Colab Notebook
-
-All code and analysis are available in the Colab notebook:
-
-Notebook: notebook_1.ipynb
-(Access set to Anyone with the link can view)
 
 📝 Conclusion
 
