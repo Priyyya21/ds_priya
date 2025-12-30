@@ -1,0 +1,11 @@
+classification,profit_label,count
+Extreme Fear,Loss,13469
+Extreme Fear,Profit,7931
+Extreme Greed,Loss,21398
+Extreme Greed,Profit,18594
+Fear,Loss,35818
+Fear,Profit,26019
+Greed,Loss,30945
+Greed,Profit,19358
+Neutral,Loss,22725
+Neutral,Profit,14961
